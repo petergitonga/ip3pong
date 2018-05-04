@@ -3,6 +3,8 @@ h1{
   font-size: 92px;
 }
 body{
-  background: url("../images/img.jpeg");
+  background: url("../images/walrus.jpg");
   font-size: 24px;
+  font-family: 'Caveat', cursive;
+  color: black;
 }

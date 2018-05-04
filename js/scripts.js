@@ -25,3 +25,4 @@ function ping(pong) {
   }else {
     yourNumbers.push(index);
   }
+}
