@@ -14,6 +14,7 @@ No Known bugs
 ## Technologies Used
 html, css, git, github, bootstrap, jquery and javascript
 ## Support and contact details
+checkout this link for an example layout; https://petergitonga.github.io/ip3pong/
 For any queries or comments or corrections, you can
   just e-mail me @ gitongapeter414@gmail.com
 ### License
