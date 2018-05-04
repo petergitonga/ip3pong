@@ -1,13 +1,18 @@
-# Anita's landing page
+# PINGPONG GAME
 #### N/A
-##No contributors
+##contributors
+created by Peter Gitonga
 ## Description
-This is a landing page for Anita's kitchen which includes menus and
-contacts. Her delicasies are classic and unavoidable.
+This is a game that allows you to input any number you think
+of but gives an exeption of Numbers divisible by 3,5 and 15
+such that numbers divisible by;
+3 are replaced by "ping"
+5 are replaced by "pong"
+15 are replaced by "pingpong"
 ## Known Bugs
-N/A
+No Known bugs
 ## Technologies Used
-html, css, git, github, bootstrap,
+html, css, git, github, bootstrap, jquery and javascript
 ## Support and contact details
 For any queries or comments or corrections, you can
   just e-mail me @ gitongapeter414@gmail.com
