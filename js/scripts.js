@@ -1,6 +1,7 @@
 //user interface logic
 
 $(document).ready(function() {
+  $("ul#result").text(" ")
   $("#button").click(function() {
     var pong= parseInt($("#mynumbers").val());
     ping(pong);
