@@ -3,8 +3,14 @@ h1{
   font-size: 92px;
 }
 body{
-  background: url("../images/walrus.jpg");
+  background: url("../images/mine.jpeg");
   font-size: 24px;
   font-family: 'Caveat', cursive;
-  color: black;
+  color: white;
+}
+h2{
+  font-size: 40px;
+}
+h3{
+  font-size: 30px
 }

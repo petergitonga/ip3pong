@@ -1,7 +1,12 @@
-# PINGPONG GAME
-#### N/A
+# Project title
+Ping Pong game that replaces numbers divisible by
+3 with "ping"
+5 with "pong"
+15 with "ping pong"
+#### Author
+Created by; Peter Gitonga
 ##contributors
-created by Peter Gitonga
+No contributors
 ## Description
 This is a game that allows you to input any number you think
 of but gives an exeption of Numbers divisible by 3,5 and 15
@@ -18,5 +23,7 @@ checkout this link for an example layout; https://petergitonga.github.io/ip3pong
 For any queries or comments or corrections, you can
   just e-mail me @ gitongapeter414@gmail.com
 ### License
-MIT
+Was Licensed under the MIT license
 Copyright (c) 2018 petergitonga
+###Acknowledgements
+Special thanks to my TM's for their help
